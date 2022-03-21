@@ -1,234 +1,44 @@
 {
-  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
-  "basics": {
-    "name": "Ibrahim Patel",
-    "label": "DevOps Engineer at Accenture UK",
-    "image": "https://avatars.githubusercontent.com/u/41287394?s=400&u=dd136e985a88646620f6cc4da8f12ae9f24b4ae9&v=4",
-    "email": "ibrahim.patel89@gmail.com",
-    "phone": "",
-    "url": "",
-    "summary": "Proficient Linux Administrator + DevOps Engineer having 7+ years of experience with an absolute focus for automation since day one, seeking to use proven scripting and brainstorming skills to improve cost and performance.\nVersatile collaborator with a deep commitment to a reliable and successful business, eager to learn & grow at a high pace.\n\nTechnically minded, calm, and methodical.",
-    "location": {
-      "countryCode": "US",
-      "address": "United Kingdom"
-    },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "ibrahim-patel-1248743a",
-        "url": "https://www.linkedin.com/in/ibrahim-patel-1248743a/"
-      }
-    ]
-  },
-  "work": [
-    {
-      "name": "Accenture UK",
-      "position": "DevOps Engineer",
-      "startDate": "2022-01-31",
-      "highlights": [],
-      "summary": "DevOps/Cloud Engineer",
-      "url": "https://www.linkedin.com/company/3733171",
-      "location": "Manchester Area, United Kingdom"
-    },
-    {
-      "name": "Tech Mahindra",
-      "position": "Senior Software Engineer",
-      "startDate": "2019-11-30",
-      "endDate": "2021-09-30",
-      "summary": "Client/Project : BT , Location : Onsite Ipswich, United Kingdom",
-      "highlights": [
-        "Managed infra build and provisioning, software installation and maintenance of over 100+ Test & Pre\u0002Production environments.",
-        "Implemented innovative ideas and mechanised approaches to speed up repetitive administration\nBAU tasks & zero downtime deployments.",
-        "Created environment health check tool of entire application using shell scripting, SQL and DevOps\ntools like Jenkins, Ansible, minimising 90% human efforts.", 
-        "Set up of DevOps monitoring tools like checkmk, ELK stack and Grafana to continuously monitor\nserver and application logs.", 
-        "Built Dev & Test environments for micro services using containerization tools like Docker.", 
-        "Collaborating with the team to identify and fix problems and guiding team through technical issues\nand challenges.", 
-        "Presented technical demonstration of automation work and sharing innovative ideas several times\nwith higher management & clients.",
-        "Eliminated human errors and reduced deployment time window from 5hours to 10mins.",
-        "Exercised monitoring & daily BAU tasks lead to 80% reduction of e2e errors/complaints.",
-        "Reduced costs by $5000 each quarter by automating monthly patches, environment setup using\nAnsible roles and playbook"
+    "name":"Rajiv Nayan Choubey",
+    "header":[
+        {
+            "title":"DOB",
+            "content": "X August XXXX"
+        },
+        {
+            "title":"Contact",
+            "content": "+91-XXXXXXXXXX"
+        },
+        {
+            "title":"Email",
+            "content": "rajivnayanc@gmail.com"
+        }
     ],
-      "url": "https://www.linkedin.com/company/3067",
-      "location": "Ipswich, England, United Kingdom"
-    },
-    {
-      "name": "Tech Mahindra",
-      "position": "Technical Lead",
-      "startDate": "2018-11-30",
-      "endDate": "2019-10-31",
-      "summary": "Client/Project : BT , Location : Offshore Kolkata, India.", 
-      "highlights": [
-        "Led the migration project involving upgrade of Linux version, Oracle database & WebLogic.",
-        "Designed, documented and executed server maintenance procedures, including system upgrades, patch management & system backups.",
-        "Constructed Jenkins pipeline projects for auto deployments, cutting down outage window by 5 hours/release.",
-        "Key achievement: Automation of BAU tasks helped in getting more business & migration projects"
-      ],
-      "url": "https://www.linkedin.com/company/3067",
-      "location": "Kolkata, West Bengal, India"
-    }
-  ],
-  "volunteer": [],
-  "education": [
-    {
-      "institution": "Guru Nanak Institute of Technology",
-      "area": "Information Technology",
-      "studyType": "B.Tech",
-      "startDate": "2008-04-01",
-      "endDate": "2012-12-31",
-      "score": "",
-      "courses": []
-    }
-  ],
-  "awards": [
-    {
-      "title": "ACE Award",
-      "date": "2021-06-30",
-      "awarder": "Tech Mahindra Ltd",
-      "summary": "Awarded an ACER for being an exceptional performer over the past two years period having achieved the highest rating in the Annual Appraisal Process for 2019-20 & 2020-21 at Tech Mahindra Ltd."
-    },
-    {
-      "title": "ACE Award",
-      "date": "2020-06-30",
-      "awarder": "Tech Mahindra Ltd",
-      "summary": "Awarded an ACER for being an exceptional performer over the two years period having achieved the highest rating in the Annual Appraisal Process for 2017-18 & 2018-19 at Tech Mahindra Ltd."
-    },
-    {
-      "title": "Digital Warrior",
-      "date": "2020-05-31",
-      "awarder": "Tech Mahindra Ltd",
-      "summary": "Tech Mahindra recognizes and rewards employee with 'Digital Warrior Award' who brings out unique ideas towards digitization and automation.\n\nRewarded as Digital Warrior for implementing the fully automated deployment of applications using Jenkins and Shell scripting completely reducing human errors and service downtime."
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Oracle WebLogic Server 12c: Administration I",
-      "issuer": "Udemy",
-      "startDate": "2020-12-31",
-      "url": "https://tm.udemy.com/certificate/UC-12934f1a-13f1-47cb-931b-c3f3fe2e0453/"
-    },
-    {
-      "name": "Red Hat Certified Delivery Specialist - Automation 1",
-      "issuer": "Red Hat",
-      "endDate": "2021-05-31",
-      "startDate": "2019-05-31"
-    },
-    {
-      "name": "AWS Academy Graduate - AWS Academy Cloud Architecting",
-      "issuer": "Amazon Web Services (AWS)",
-      "startDate": "2021-06-30",
-      "url": "https://www.credly.com/badges/a402e86d-6da0-4b00-8cd6-1db14606c9f2?source=linked_in_profile"
-    },
-    {
-      "name": "Operating Kubernetes on IBM Cloud",
-      "issuer": "IBM",
-      "startDate": "2021-07-31",
-      "url": "https://www.credly.com/badges/20c81dfd-a894-4c58-8f0c-9d69c29094eb?source=linked_in_profile"
-    },
-    {
-      "name": "Google Cloud Fundamentals: Core Infrastructure",
-      "issuer": "Google",
-      "startDate": "2022-02-28",
-      "url": "https://www.cloudskillsboost.google/public_profiles/84f39960-8d31-4d17-b735-f9e157eb60b3/badges/1710866?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share"
-    },
-    {
-      "name": "Oracle Cloud Infrastructure Foundations 2021 Associate",
-      "issuer": "Oracle",
-      "startDate": "2022-02-28",
-      "url": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=E0FE75181E9CE2572CDCEA94820A2DFD32101D2C3B0F9749185B2D3E554456D1"
-    },
-    {
-      "name": "Oracle Cloud Infrastructure 2021 Architect Associate",
-      "issuer": "Oracle",
-      "startDate": "2022-02-28",
-      "url": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=323E1E0A4CCB2B48C9FB48B235E04D2356A88D3E7774155D54DE681A65FEB40D"
-    }
-  ],
-  "publications": [],
-  "skills": [
-    {
-      "name": "Cloud Technologies",
-      "level": "",
-      "keywords": [
-        "Amazon Web Services",
-        "Oracle Cloud Infrastructure",
-        "Docker",
-        "Understanding of Kubernetes"
-      ]
-    },
-    {
-      "name": "Infrastructure as Code",
-      "level": "",
-      "keywords": [
-        "Terraform",
-        "Ansible"
-      ]
-    },
-    {
-      "name": "CI/CD Tools",
-      "level": "",
-      "keywords": [
-        "Jenkins",
-        "GitHub"
-      ]
-    },
-    {
-      "name": "Administration",
-      "level": "",
-      "keywords": [
-        "Linux/Unix Administration",
-        "Oracle Database administration",
-        "Oracle Weblogic Administration"
-      ]
-    },
-    {
-      "name": "Monitoring",
-      "level": "",
-      "keywords": [
-        "CheckMk",
-        "Elasticsearch",
-        "Filebeat",
-        "Kibana",
-        "Grafana"
-      ]
-    },
-    {
-      "name": "Scripting",
-      "level": "",
-      "keywords": [
-        "YAML",
-        "Shell",
-        "Java/JSP"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "fluency": "Native Speaker",
-      "language": "Bengali"
-    },
-    {
-      "fluency": "Full Professional",
-      "language": "English"
-    },
-    {
-      "fluency": "Native Speaker",
-      "language": "Gujarati"
-    },
-    {
-      "fluency": "Native Speaker",
-      "language": "Hindi"
-    }
-  ],
-  "interests": [],
-  "references": [
-    {
-      "name": "Senjuti Kundu",
-      "reference": "Ibrahim is an excellent team player professionally and he is friendly too. He is very calm and composed even at critical situation and has immense knowledge in automation. I would definitely recommend Ibrahim as a colleague."
-    }
-  ],
-  "projects": [],
-  "meta": {
-    "version": "v1.0.0",
-    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
-  }
+    "content":[
+        {
+            "title":"Experience",
+            "content": [
+                "Campus Adda",
+                "Technovate 2020"
+            ]
+        },
+        {
+            "title":"Education",
+            "content": [
+                "B.Tech CSE, IIIT Naya Raipur",
+                "12th Class, Glenhill School",
+                "10th Class, Glenhill School"
+            ]
+        },
+        {
+            "title":"Achievements",
+            "content": [
+                "SIH University Level Hackathon: Secon Runner Up",
+                "10 SGPA in 3rd Semester",
+                "Runner Up in Website Making Competition",
+                "First Prize in Discus Throw: Annual Sports"
+            ]
+        }
+        
+    ]
 }
